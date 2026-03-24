@@ -1,28 +1,13 @@
-# Hi there, I'm Ashish Baghel
-###  Full Stack Developer | Laravel & MERN Stack
--
-## About Me
-Full Stack Developer with **1.5+ years of experience** building scalable web applications.  
-Skilled in **Laravel, PHP, React.js, and MySQL**, with hands-on experience in:
-- REST APIs  
-- Authentication & Authorization  
-- Payment Integration  
-- Responsive UI Development
+# Hi, I'm Ashish 👋
 
-## 🛠️ Tech Stack
-**Frontend:**  
-HTML5, CSS3, JavaScript, React.js  
-**Backend:**  
-PHP, Laravel, Node.js, Express.js  
-**Database:**  
-MySQL, SQL, MongoDB  
-**UI:**  
-Bootstrap, Tailwind CSS  
-**Tools:**  
-Git, GitHub  
+**Full Stack Developer | Laravel & MERN**
 
-## Connect With Me
-- GitHub: https://github.com/ashishbaghel2dev  
-- Portfolio: https://ashish.youthgroup.in/
-- 
-*Always open to opportunities & collaboration*
+💻 1.5+ years experience building scalable web apps  
+⚡ Skilled in Laravel, PHP, React, MySQL  
+
+**Tech:** HTML, CSS, JS, React | PHP, Laravel, Node | MySQL, MongoDB | Tailwind  
+
+🔗 GitHub: https://github.com/ashishbaghel2dev  
+🌐 Portfolio: https://ashish.youthgroup.in/
+
+⭐ Open to opportunities
