@@ -1,6 +1,6 @@
 # Hi, I'm Ashish Bahgel
 
-** Full Stack Developer | Laravel & MERN **
+**Full Stack Developer | Laravel & MERN**
 
 💻 1.5+ years experience building scalable web apps  
 ⚡ Skilled in Laravel, PHP, React, MySQL  
