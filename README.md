@@ -2,12 +2,15 @@
 
 **Full Stack Developer | Laravel & MERN**
 
-💻 1.5+ years experience building scalable web apps  
-⚡ Skilled in Laravel, PHP, React, MySQL  
+Full Stack Developer with 2+ years of experience in Laravel, PHP, MySQL, React.js and Node.js.
 
-**Tech:** HTML, CSS, JS, React | PHP, Laravel, Node, Express | MySQL, MongoDB | Tailwind  
+🚀 Built:
+- Coaching Management System
+- Ecommerce Platform
+- Doctor Appointment System
+- Digital Marketing CMS
 
-🔗 GitHub: https://github.com/ashishbaghel2dev  
-🌐 Portfolio: https://ashish.youthgroup.in/
+💻 Tech Stack:
+Laravel • PHP • MySQL • React.js • Node.js • REST APIs • Tailwind CSS
 
-⭐ Open to opportunities
+📧 Email: ashishbaghel2dev@gmail.com
